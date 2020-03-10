@@ -33,3 +33,5 @@ def find_a(array)
   
   array.find |string|
   string[0] == "a"
+end 
+end 
