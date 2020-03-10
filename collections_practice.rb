@@ -27,5 +27,9 @@ def kesha_maker(array)
   array.each do |strings|
     strings[2] = "$"
   end 
-  
 end
+
+def find_a(array)
+  
+  array.find |string|
+  string[]
