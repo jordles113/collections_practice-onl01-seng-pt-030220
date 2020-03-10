@@ -34,4 +34,9 @@ def find_a(array)
   string[0] == "a"
 end 
 end 
+
+def sum_array(array)
+  array.inject
+end 
+
  
