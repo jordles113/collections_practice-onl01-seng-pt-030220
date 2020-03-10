@@ -42,7 +42,7 @@ end
 end 
 
 def add_s(array)
-  rray.collect do |word|
+  array.collect do |word|
     if array[1] == word
       word
     else
