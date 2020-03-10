@@ -24,7 +24,6 @@ def reverse_array(array)
 end 
 
 def kesha_maker(array)
-  i = 0
   array.each do |strings|
     array[2] = $
   
