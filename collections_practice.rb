@@ -32,4 +32,4 @@ end
 def find_a(array)
   
   array.find |string|
-  string[]
+  string[0] == "a"
