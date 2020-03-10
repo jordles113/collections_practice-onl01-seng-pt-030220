@@ -1,5 +1,6 @@
 def sort_array_asc
- 
-  new_array = array.sort.collect do |a, b|
+  collection =[]
+  array.sort do |a, b|
+    collection.push
   end 
 end 
