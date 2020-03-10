@@ -1,3 +1,3 @@
-def sort_array_asc
-  array.sort do |a, b|
+def sort_array_asc(array)
+  array.sort 
 end 
