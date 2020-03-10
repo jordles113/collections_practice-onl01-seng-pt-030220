@@ -14,3 +14,4 @@ array.sort do |a, b|
   end 
 end 
 
+def swap_elements(array)
